@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dalia 👋</h1>
+<h1 align="center">Hi there, I'm Dalia ✨</h1>
 <h3 align="center">Full Stack Developer | Java & Spring Boot</h3>
 
 <p align="center">
@@ -7,15 +7,15 @@
 
 ---
 
-### 👨‍💻 Quick Facts
+### 👩🏼‍💻 Quick Facts
 
 - 💻 **Full Stack Development:** Specializing in server-side logic with **Java & Spring Boot**, and creating dynamic user interfaces using **React & Expo**.
-- ⚙️ **Database Architecture:** Experienced in relational database design, complex **SQL** queries, and utilizing **Hibernate** for ORM mapping.
-- 🔧 **Environments & Tools:** Proficient in **Git** version control and highly comfortable working, configuring, and deploying within **Linux/Ubuntu** environments.
+- 🤍 **Database Architecture:** Experienced in relational database design, complex **SQL** queries, and utilizing **Hibernate** for ORM mapping.
+- ☁️ **Environments & Tools:** Proficient in **Git** version control and highly comfortable working, configuring, and deploying within **Linux/Ubuntu** environments.
   
 ---
 
-### 🛠️ Tech Stack & Tools
+### ✨ Tech Stack & Tools
 
 **Backend & Database:**
 <br/>
