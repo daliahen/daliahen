@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Java & Spring Boot</h3>
 
 <p align="center">
-  Computer Science student passionate about building scalable, end-to-end applications from the database to a flawless user interface.
+  A highly motivated Computer Science student driven by a deep curiosity and a constant desire to learn. I thrive on exploring new technologies and tackling complex challenges, with a strong passion for building robust, end-to-end applications from the database to a flawless user interface.
 </p>
 
 ---
@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 **Frontend & Mobile:**
