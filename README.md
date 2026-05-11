@@ -38,6 +38,7 @@
 
 ---
 
+<h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/dalia-hen-211448371/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
